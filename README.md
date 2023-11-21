@@ -7,10 +7,6 @@
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">Javascript</a></li>
 <li><a href="https://www.framer.com/motion/">Framer Motion</a></li>
 
-<h1>See the project on the air 🚀</h1>
-<a href="https://pizza-joint-framer-motion.vercel.app/">Pizza Joint</a>
-
-
 <h1>Installation</h1>
 <p> 1. Clone the repository:</p>
 <code> git clone https://github.com/risingus/Pizza_Joint_Framer_Motion.git  </code>
